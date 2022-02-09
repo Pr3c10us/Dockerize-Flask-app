@@ -1,3 +1,4 @@
+# we are ignoring some file to make the image more efficient and they are mainly configuration files as they are not needed in the image 
 .dockerignore
 Dockerfile
 .gitignore
